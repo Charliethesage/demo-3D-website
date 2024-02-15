@@ -48,6 +48,7 @@ export const Interface = () => {
         explore the codebase and contribute your ideas for further enhancements.
         Your collaboration is highly valued!
       </p>
+<link src="https://rubancharles.vercel.app/projects"> Click me </link>
       </Section>
       <ContactSection />
     </div>
